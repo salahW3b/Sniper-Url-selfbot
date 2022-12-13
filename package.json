@@ -1,0 +1,16 @@
+{
+  "name": "vanity-sniper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sans",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.9.11",
+    "request": "^2.88.2",
+    "sync-color": "^1.0.6"
+  }
+}
